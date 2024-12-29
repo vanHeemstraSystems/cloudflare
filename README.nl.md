@@ -1,6 +1,6 @@
-repositorynaam
+wolkvlam
 
-# Naam van opslagplaats
+# Wolkenvlam
 
 > Slaklijn
 
