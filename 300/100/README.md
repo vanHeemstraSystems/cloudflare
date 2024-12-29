@@ -1,6 +1,6 @@
 # 100 - Setup
 
-the setup process:
+The setup process:
 
 1. **Create Cloudflare Account**:
    - Go to cloudflare.com
