@@ -13,21 +13,21 @@ flowchart LR
     end
 
     subgraph "DNS Management"
-        Cloudflare["Cloudflare\n(DNS & Proxy)"]
+        Cloudflare["Cloudflare<br/>(DNS & Proxy)"]
     end
 
     subgraph "Web Hosting"
-        Valyent["Valyent\n(Web Application Host)"]
+        Valyent["Valyent<br/>(Web Application Host)"]
     end
 
     %% DNS Setup Flow
-    Versio -->|"Delegates DNS via\nNameservers"| Cloudflare
+    Versio -->|"Delegates DNS via<br/>Nameservers"| Cloudflare
     
     %% Request Flow
-    Browser -->|"1 Requests\nprompt-management.\nvanheemstrasystems.com"| Cloudflare
-    Cloudflare -->|"2 Routes request to\nValyent application"| Valyent
-    Valyent -->|"3 Returns web\napplication content"| Cloudflare
-    Cloudflare -->|"4 Delivers content\nwith added security\nand optimization"| Browser
+    Browser -->|"1 Requests<br/>prompt-management.<br/>vanheemstrasystems.com"| Cloudflare
+    Cloudflare -->|"2 Routes request to<br/>Valyent application"| Valyent
+    Valyent -->|"3 Returns web<br/>application content"| Cloudflare
+    Cloudflare -->|"4 Delivers content<br/>with added security<br/>and optimization"| Browser
 
     %% Styling
     classDef provider fill:#f9f,stroke:#333,stroke-width:2px
