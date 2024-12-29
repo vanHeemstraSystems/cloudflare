@@ -9,7 +9,7 @@ flowchart LR
     end
 
     subgraph "Domain Registration"
-        Versio["Versio\n(Domain Registrar)"]
+        Versio["Versio<br/>(Domain Registrar)"]
     end
 
     subgraph "DNS Management"
