@@ -1,11 +1,11 @@
-cloudflare
+éruption nuageuse
 
 # Flare nuageuse
 
 > Slugline
 
 -   [Documentation](./DOCUMENTATION.md)
--   [Glossaire](./GLOSSARY.md)
+-   [Glossary](./GLOSSARY.md)
 -   [Images](./IMAGES.md)
 -   [Tamisé](./PODMAN.md)
 -   [Références](./REFERENCES.md)
@@ -13,7 +13,7 @@ cloudflare
 
 **Résumé exécutif**
 
-Text
+Texte
 
 ## 100 - Introduction
 
@@ -29,4 +29,4 @@ Voir[README.md](./300/README.md)
 
 ## 400 - Conclusion
 
-See [README.md](./400/README.md)
+Voir[README.md](./400/README.md)
