@@ -13,7 +13,7 @@ llamarada de nube
 
 **Resumen ejecutivo**
 
-Texto
+Text
 
 ## 100 - Introducción
 
