@@ -25,9 +25,9 @@ flowchart LR
     
     %% Request Flow
     Browser -->|"1 Requests\nprompt-management.\nvanheemstrasystems.com"| Cloudflare
-    Cloudflare -->|"2. Routes request to\nValyent application"| Valyent
-    Valyent -->|"3. Returns web\napplication content"| Cloudflare
-    Cloudflare -->|"4. Delivers content\nwith added security\nand optimization"| Browser
+    Cloudflare -->|"2 Routes request to\nValyent application"| Valyent
+    Valyent -->|"3 Returns web\napplication content"| Cloudflare
+    Cloudflare -->|"4 Delivers content\nwith added security\nand optimization"| Browser
 
     %% Styling
     classDef provider fill:#f9f,stroke:#333,stroke-width:2px
