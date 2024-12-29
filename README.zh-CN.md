@@ -4,7 +4,7 @@
 
 > 斯拉格莱恩
 
--   [Documentation](./DOCUMENTATION.md)
+-   [文档](./DOCUMENTATION.md)
 -   [词汇表](./GLOSSARY.md)
 -   [图片](./IMAGES.md)
 -   [柔和的](./PODMAN.md)
