@@ -1,4 +1,4 @@
-com.cloudflare
+cloudflare
 
 # كلاودفلير
 
@@ -8,22 +8,22 @@ com.cloudflare
 -   [مسرد](./GLOSSARY.md)
 -   [الصور](./IMAGES.md)
 -   [مهزوما](./PODMAN.md)
--   [مراجع](./REFERENCES.md)
+-   [References](./REFERENCES.md)
 -   [القياس عن بعد](./TELEMETRY.md)
 
-**Executive Summary**
+**ملخص تنفيذي**
 
 نص
 
-## 100- مقدمة
+## 100 - Introduction
 
-See [README.md](./100/README.md)
+يرى[README.md](./100/README.md)
 
-## 200 - المتطلبات
+## 200 - Requirements
 
 يرى[README.md](./200/README.md)
 
-## 300 - Building Our Application
+## 300 – بناء تطبيقنا
 
 يرى[README.md](./300/README.md)
 
