@@ -8,12 +8,12 @@
 -   [शब्दकोष](./GLOSSARY.md)
 -   [इमेजिस](./IMAGES.md)
 -   [मातहत](./PODMAN.md)
--   [References](./REFERENCES.md)
--   [Telemetry](./TELEMETRY.md)
+-   [संदर्भ](./REFERENCES.md)
+-   [टेलीमेटरी](./TELEMETRY.md)
 
 **कार्यकारी सारांश**
 
-Text
+मूलपाठ
 
 ## 100 - परिचय
 
@@ -27,6 +27,6 @@ Text
 
 देखना[README.md](./300/README.md)
 
-## 400 - निष्कर्ष
+## 400 - Conclusion
 
 देखना[README.md](./400/README.md)
