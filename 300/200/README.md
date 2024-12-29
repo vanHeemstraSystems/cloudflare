@@ -24,7 +24,7 @@ flowchart LR
     Versio -->|"Delegates DNS via\nNameservers"| Cloudflare
     
     %% Request Flow
-    Browser -->|"1. Requests\nprompt-management.\nvanheemstrasystems.com"| Cloudflare
+    Browser -->|"1 Requests\nprompt-management.\nvanheemstrasystems.com"| Cloudflare
     Cloudflare -->|"2. Routes request to\nValyent application"| Valyent
     Valyent -->|"3. Returns web\napplication content"| Cloudflare
     Cloudflare -->|"4. Delivers content\nwith added security\nand optimization"| Browser
