@@ -15,7 +15,7 @@
 
 نص
 
-## 100- مقدمة
+## 100 - Introduction
 
 يرى[README.md](./100/README.md)
 
