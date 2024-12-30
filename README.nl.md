@@ -1,4 +1,4 @@
-cloudflare
+wolkvlam
 
 # Wolkenvlam
 
@@ -7,7 +7,7 @@ cloudflare
 -   [DNS](./DNS.md)
 -   [Documentatie](./DOCUMENTATION.md)
 -   [Glossarium](./GLOSSARY.md)
--   [Images](./IMAGES.md)
+-   [Afbeeldingen](./IMAGES.md)
 -   [Ingetogen](./PODMAN.md)
 -   [Referenties](./REFERENCES.md)
 -   [Telemetrie](./TELEMETRY.md)
