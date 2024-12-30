@@ -3,6 +3,7 @@ cloudflare
 
 > Slugline
 
+- [DNS](./DNS.md)
 - [Documentation](./DOCUMENTATION.md)
 - [Glossary](./GLOSSARY.md)
 - [Images](./IMAGES.md)
