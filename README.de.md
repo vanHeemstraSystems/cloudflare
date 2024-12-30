@@ -1,10 +1,10 @@
-cloudflare
+Wolkenflare
 
-# Cloudflare
+# Wolkenflare
 
 > Slugline
 
--   [Dokumentation](./DOCUMENTATION.md)
+-   [Documentation](./DOCUMENTATION.md)
 -   [Glossar](./GLOSSARY.md)
 -   [Bilder](./IMAGES.md)
 -   [Gedämpft](./PODMAN.md)
@@ -21,9 +21,9 @@ Sehen[README.md](./100/README.md)
 
 ## 200 – Anforderungen
 
-See [README.md](./200/README.md)
+Sehen[README.md](./200/README.md)
 
-## 300 - Building Our Application
+## 300 – Erstellen unserer Anwendung
 
 Sehen[README.md](./300/README.md)
 
