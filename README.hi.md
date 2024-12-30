@@ -1,13 +1,13 @@
-cloudflare
+बादल भड़कना
 
-# Cloudflare
+# बादल भड़कना
 
-> Slugline
+> स्लगलाइन
 
 -   [प्रलेखन](./DOCUMENTATION.md)
 -   [शब्दकोष](./GLOSSARY.md)
 -   [इमेजिस](./IMAGES.md)
--   [Podman](./PODMAN.md)
+-   [मातहत](./PODMAN.md)
 -   [संदर्भ](./REFERENCES.md)
 -   [टेलीमेटरी](./TELEMETRY.md)
 
@@ -15,7 +15,7 @@ cloudflare
 
 मूलपाठ
 
-## 100 - Introduction
+## 100 - परिचय
 
 देखना[README.md](./100/README.md)
 
