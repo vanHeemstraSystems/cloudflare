@@ -9,7 +9,7 @@
 ## Cloudflare (DNS)
 
 | Subdomain | Type | Host | Test DNS Resolution | Test HTTPS Access |
-| -- | -- | -- |
+| -- | -- | -- | -- | -- |
 | prompt-management | CNAME | your-hetzner-host.com  (Proxied - Orange Cloud) | dig prompt-management.vanheemstrasystems.com | curl -I https://prompt-management.vanheemstrasystems.com |
 | foo-management | CNAME | your-other-host.com    (Proxied - Orange Cloud) | dig foo-management.vanheemstrasystems.com | curl -I https://foo-management.vanheemstrasystems.com |
 
