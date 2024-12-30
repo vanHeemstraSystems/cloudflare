@@ -2,7 +2,7 @@
 
 # 雲耀
 
-> Slugline
+> 斯拉格萊恩
 
 -   [文件](./DOCUMENTATION.md)
 -   [詞彙表](./GLOSSARY.md)
@@ -13,7 +13,7 @@
 
 **執行摘要**
 
-Text
+文字
 
 ## 100 - 簡介
 
