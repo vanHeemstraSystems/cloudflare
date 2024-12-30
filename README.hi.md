@@ -2,7 +2,7 @@
 
 # बादल भड़कना
 
-> स्लगलाइन
+> Slugline
 
 -   [प्रलेखन](./DOCUMENTATION.md)
 -   [शब्दकोष](./GLOSSARY.md)
@@ -15,7 +15,7 @@
 
 मूलपाठ
 
-## 100 - परिचय
+## 100 - Introduction
 
 देखना[README.md](./100/README.md)
 
@@ -23,7 +23,7 @@
 
 देखना[README.md](./200/README.md)
 
-## 300 - हमारे एप्लिकेशन का निर्माण
+## 300 - Building Our Application
 
 देखना[README.md](./300/README.md)
 
