@@ -4,10 +4,11 @@ llamarada de nube
 
 > línea de bala
 
--   [Documentación](./DOCUMENTATION.md)
+-   [DNS](./DNS.md)
+-   [Documentation](./DOCUMENTATION.md)
 -   [Glosario](./GLOSSARY.md)
 -   [Imágenes](./IMAGES.md)
--   [Suave](./PODMAN.md)
+-   [Podman](./PODMAN.md)
 -   [Referencias](./REFERENCES.md)
 -   [Telemetria](./TELEMETRY.md)
 
