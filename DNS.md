@@ -17,6 +17,6 @@
 
 See also [Using a domain to point to a dedicated server](https://www.reddit.com/r/hetzner/comments/1cb1uv5/using_a_domain_to_point_to_a_dedicated_server/)
 
-| IPv6 | -- | Server |
+| IPv6 | Hostname | Server |
 | -- | -- | -- |
 | 2a01:4f8:1c1e:8c96::1 | .. | prompt-management |
