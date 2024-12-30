@@ -8,7 +8,7 @@ com.cloudflare
 -   [التوثيق](./DOCUMENTATION.md)
 -   [مسرد](./GLOSSARY.md)
 -   [الصور](./IMAGES.md)
--   [مهزوما](./PODMAN.md)
+-   [Podman](./PODMAN.md)
 -   [مراجع](./REFERENCES.md)
 -   [القياس عن بعد](./TELEMETRY.md)
 
