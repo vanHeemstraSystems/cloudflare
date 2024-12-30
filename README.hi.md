@@ -1,8 +1,8 @@
 बादल भड़कना
 
-# Cloudflare
+# बादल भड़कना
 
-> Slugline
+> स्लगलाइन
 
 -   [डीएनएस](./DNS.md)
 -   [प्रलेखन](./DOCUMENTATION.md)
