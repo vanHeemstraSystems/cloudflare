@@ -4,6 +4,7 @@ Wolkenflare
 
 > Slugline
 
+-   [DNS](./DNS.md)
 -   [Dokumentation](./DOCUMENTATION.md)
 -   [Glossar](./GLOSSARY.md)
 -   [Bilder](./IMAGES.md)
@@ -21,7 +22,7 @@ Sehen[README.md](./100/README.md)
 
 ## 200 – Anforderungen
 
-Sehen[README.md](./200/README.md)
+See [README.md](./200/README.md)
 
 ## 300 – Erstellen unserer Anwendung
 
