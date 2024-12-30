@@ -1,9 +1,12 @@
 # DNS
 
+## Versio
+
 | Domain Name | Name Server Group | Name Servers |
 | -- | -- | -- |
 | vanheemstrasystems.com | 12394-Cloudflare | monroe.ns.cloudflare.com <br/> rick.ns.cloudflare.com |
 
+## Cloudflare
 
 | Subdomain | Type | Host |
 | -- | -- | -- |
