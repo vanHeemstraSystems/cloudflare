@@ -2,7 +2,7 @@ llamarada de nube
 
 # Llamarada de nube
 
-> línea de bala
+> Slugline
 
 -   [DNS](./DNS.md)
 -   [Documentación](./DOCUMENTATION.md)
