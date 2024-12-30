@@ -1,0 +1,4 @@
+# DNS
+
+| NameServer | Subdomain | Host |
+| -- | -- | -- |
