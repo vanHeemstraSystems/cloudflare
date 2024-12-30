@@ -1,6 +1,6 @@
 éruption nuageuse
 
-# Flare nuageuse
+# Cloudflare
 
 > Slugline
 
