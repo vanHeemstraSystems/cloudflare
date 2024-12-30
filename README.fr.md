@@ -4,6 +4,7 @@
 
 > Slugline
 
+-   [DNS](./DNS.md)
 -   [Documentation](./DOCUMENTATION.md)
 -   [Glossaire](./GLOSSARY.md)
 -   [Images](./IMAGES.md)
@@ -11,7 +12,7 @@
 -   [Références](./REFERENCES.md)
 -   [Télémétrie](./TELEMETRY.md)
 
-**Executive Summary**
+**Résumé exécutif**
 
 Texte
 
